@@ -1,0 +1,2 @@
+# Required by association.ipynb for Apriori association-rule mining.
+mlxtend==0.23.4
